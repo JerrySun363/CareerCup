@@ -28,6 +28,6 @@ public class ZeroCheckInMatrix {
 		}
 		
 		
-		return null;
+		return matrix;
 	}
 }
