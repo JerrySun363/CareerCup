@@ -2,7 +2,7 @@ import java.util.HashSet;
 
 /*Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to 0.*/
 
-public class zeroCheckInMatrix {
+public class ZeroCheckInMatrix {
       
 	public int[][] zeroSet(int[][] matrix){
 		int m = matrix.length;
