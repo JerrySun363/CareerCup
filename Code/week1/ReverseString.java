@@ -1,4 +1,4 @@
-package week１;
+package week1;
 
 public class ReverseString {
    /*Implented in C, ignored here

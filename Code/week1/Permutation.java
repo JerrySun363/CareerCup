@@ -1,4 +1,4 @@
-package week１;
+package week1;
 /*1.3
  * Given two strings, write a method to decide if one is a permutation of the other.
  * As my understanding of Permutation, same characters should occur exactly same times. 
